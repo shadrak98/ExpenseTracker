@@ -22,7 +22,7 @@ Screenshots | Screenshots | Screenshots
 -----------------------------------------------------------
 Screenshots | Screenshots | Screenshots
 :----------------:|:----------------:|:----------------:
-![Camera](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/cameraa.jpeg) | ![Verification](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/verify.jpeg) | ![Graph](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/chart.jpeg)
+![Camera](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/cameraa.jpeg) | ![Verification](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/verify.jpeg) | ![Graph](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/chartt.jpeg)
 
 ### Technologies/Tools used:
 * **Firebase** (Database)
