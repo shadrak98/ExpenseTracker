@@ -1,4 +1,4 @@
-![Expense Tracker](https://github.com/shubham99bisht/ExpenseTracker/blob/master/logo_black.png)
+![Expense Tracker](https://github.com/shadrak98/ExpenseTracker/blob/master/logo_black.png)
 ----------------------------------
 
 # Expense Tracker
@@ -14,7 +14,7 @@ An Android app that helps store images of their invoices and details fetched fro
 ### ScreenShots:
 Screenshots | Screenshots | Screenshots
 :----------------:|:----------------:|:----------------:
-![Login](https://github.com/shubham99bisht/ExpenseTracker/blob/master/Screenshots/Login.jpeg) | ![Signup](https://github.com/shubham99bisht/ExpenseTracker/blob/master/Screenshots/Signup.jpeg) | ![Bills](https://github.com/shubham99bisht/ExpenseTracker/blob/master/Screenshots/Bills.jpeg)
+![Login](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/login.jpeg) | ![Signup](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/register.jpeg) | ![Bills](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/list.jpeg)
 ----------------------------------------------------------------
 * The App also allows users to see past bills and stores their images in **Firebase Database.**
 * User can also view the expenses in form of __Piechart__.
@@ -22,7 +22,7 @@ Screenshots | Screenshots | Screenshots
 -----------------------------------------------------------
 Screenshots | Screenshots | Screenshots
 :----------------:|:----------------:|:----------------:
-![Camera](https://github.com/shubham99bisht/ExpenseTracker/blob/master/Screenshots/camera.jpeg) | ![Verification](https://github.com/shubham99bisht/ExpenseTracker/blob/master/Screenshots/verification.jpeg) | ![Graph](https://github.com/shubham99bisht/ExpenseTracker/blob/master/Screenshots/graph.jpeg)
+![Camera](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/cameraa.jpeg) | ![Verification](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/verify.jpeg) | ![Graph](https://github.com/shadrak98/ExpenseTracker/blob/master/Screenshots/chart.jpeg)
 
 ### Technologies/Tools used:
 * **Firebase** (Database)
